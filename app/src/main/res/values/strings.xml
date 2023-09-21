@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StoryGram</string>
+    <string name="register">Register</string>
+    <string name="share_your_daily_activities_and_capture_the_moments_with_others">Share your daily activities, and capture the moments with others.</string>
+    <string name="welcome_to_the_x_story">Welcome to the X Story!</string>
+    <string name="login">Login</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="submit">Submit</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="logout">Logout</string>
+</resources>
